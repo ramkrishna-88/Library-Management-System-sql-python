@@ -66,13 +66,9 @@ library-management-system/
 ---
 <h2><a class="anchor" id="Install & Setup"></a>Install & Setup</h2>
 
-- Clone the Repository
-    git clone https://github.com/your-username/library-management-system.git
-    cd library-management-system
-
 -  Install Required Modules
-    pip install pymysql
-(Tkinter comes pre-installed with Python on Windows)
+   - pip install pymysql
+   - (Tkinter comes pre-installed with Python on Windows)
 
 ---
 <h2><a class="anchor" id="Database Setup"></a>Database Setup</h2>
