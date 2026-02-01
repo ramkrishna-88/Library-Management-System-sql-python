@@ -1,6 +1,11 @@
 # Library Management System (Python + Tkinter + MySQL)
 
-A GUI-based Library Management System built using Python Tkinter for the frontend and MySQL for the backend database.
+A GUI-based Library Management System built using 
+
+- **Python**
+- **Tkinter** for the GUI 
+- **MySQL** for the backend database
+
 This application allows users to Add, Search, Update, Delete, and View book records in an interactive desktop interface.
 
 ---
@@ -119,5 +124,5 @@ python library_app.py
 ## Author
 
 Ram Krishna
-Email: ramkrishna000888@gmail.com
-Linkeddin: https://www.linkedin.com/in/ramkrishna000/
+- Email: ramkrishna000888@gmail.com
+- Linkeddin: https://www.linkedin.com/in/ramkrishna000/
